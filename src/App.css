@@ -1,0 +1,38 @@
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+/* Login form styles */
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input {
+  margin: 10px;
+  padding: 5px;
+  width: 200px;
+}
+
+button {
+  background: #206087;
+  color: white;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+
